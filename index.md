@@ -1,2 +1,6 @@
-# Hello, this is index.md!
-[image](image/test.png)
+# Hello, this is MagnetSaki's HomePage!
+
+### Blog
+
+- [Jekyll](./Jekyll.md)
+- [SimpleSSD](./SimpleSSD.md)
