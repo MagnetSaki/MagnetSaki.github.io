@@ -61,7 +61,8 @@
 |--outdir, -d|设置用来存储所有仿真输出的目录。|
 |--redirect-stdout, -r|将gem5的stdout和stderr重定向到 **simout** 文件。可以使用--stdout-file选项更改重定向的文件名。|
 |--redirect-stderr, -e|将gem5的stderr重定向到 **simerr** 文件。可以使用--stderr-file选项更改重定向的文件名。|
-- 要了解更多的选项，可以运行`./build/ARM/gem5.opt --help`命令，或查看[gem5帮助文档](http://old.gem5.org/Running_gem5.html)。 
+
+<br>要了解更多的选项，可以运行`./build/ARM/gem5.opt --help`命令，或查看[gem5帮助文档](http://old.gem5.org/Running_gem5.html)。 
 
 #### 3.2.2 仿真脚本运行选项
 
