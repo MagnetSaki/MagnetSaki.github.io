@@ -4,7 +4,6 @@
 
 <!-- TOC -->
 
-- [Jekyll使用方法](#jekyll使用方法)
   - [1. Jekyll的安装](#1-jekyll的安装)
     - [1.1 Windows 10环境下安装Jekyll](#11-windows-10环境下安装jekyll)
     - [1.2 Ubuntu环境下安装Jekyll](#12-ubuntu环境下安装jekyll)
