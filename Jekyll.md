@@ -69,4 +69,5 @@
 [如何使用Jekyll+GitHub Pages搭建个人博客站点](https://blog.csdn.net/u010454030/article/details/79908682)  
 [用 jekyll + Github Pages搭建个人博客](https://blog.csdn.net/u013553529/article/details/54588010) 
 
-[返回主页](../index.md)
+
+[返回主页](./index.md)
