@@ -1,9 +1,3 @@
----
-layout: collection
-title: 如何使用Jekyll？
-order: 205
----
-
 # Jekyll使用方法
 
 &nbsp;&nbsp;一种简单静态博客生成器，用于将纯文本转换为静态博客网站。
@@ -74,3 +68,5 @@ order: 205
 [Jekyll使用教程笔记](https://juejin.cn/post/6844903623567081486)  
 [如何使用Jekyll+GitHub Pages搭建个人博客站点](https://blog.csdn.net/u010454030/article/details/79908682)  
 [用 jekyll + Github Pages搭建个人博客](https://blog.csdn.net/u013553529/article/details/54588010) 
+
+[返回主页](../index.md)
