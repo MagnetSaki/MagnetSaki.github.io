@@ -2,5 +2,4 @@
 
 ### Blog
 
-- [Jekyll](./Jekyll.md)
-- [SimpleSSD](./SimpleSSD.md)
+- [ROART](./ROART.md)
