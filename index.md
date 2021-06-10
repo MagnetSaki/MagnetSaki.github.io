@@ -1,4 +1,3 @@
-# Hello, this is MagnetSaki's HomePage!
 
 ## Reading
 
