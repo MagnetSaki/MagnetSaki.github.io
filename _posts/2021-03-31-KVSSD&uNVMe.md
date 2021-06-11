@@ -22,6 +22,8 @@ KVSSD总体结构：
 - spec
     - pdf，SNIA出版的KV存储API标准v1.1
 ---
+
+
 ## 1. SNIA API
 
 init、process_completions、store_tuple、retrieve_tuple、delete_tuple、exist_tuple、create_iterator、delete_iterator、delete_iterator_all、iterator_next、get_waf、get_used_size、get_total_size、get_device_info
@@ -110,8 +112,8 @@ init、process_completions、store_tuple、retrieve_tuple、delete_tuple、exist
 
 ## 附录
 
-KVSSD下载：https://github.com/OpenMPDK/KVSSD
+KVSSD下载：(https://github.com/OpenMPDK/KVSSD)
 
-uNVMe下载：https://github.com/OpenMPDK/uNVMe
+uNVMe下载：(https://github.com/OpenMPDK/uNVMe)
 
-KVS API规范：https://www.snia.org/keyvalue
+KVS API规范：(https://www.snia.org/keyvalue)
