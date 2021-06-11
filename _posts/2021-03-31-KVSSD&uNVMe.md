@@ -21,6 +21,7 @@ KVSSD总体结构：
         - user_driver：Samsung的uNVMe
 - spec
     - pdf，SNIA出版的KV存储API标准v1.1
+    
 ---
 
 
@@ -112,8 +113,8 @@ init、process_completions、store_tuple、retrieve_tuple、delete_tuple、exist
 
 ## 附录
 
-KVSSD下载：(https://github.com/OpenMPDK/KVSSD)
+KVSSD下载：https://github.com/OpenMPDK/KVSSD
 
-uNVMe下载：(https://github.com/OpenMPDK/uNVMe)
+uNVMe下载：https://github.com/OpenMPDK/uNVMe
 
-KVS API规范：(https://www.snia.org/keyvalue)
+KVS API规范：https://www.snia.org/keyvalue
