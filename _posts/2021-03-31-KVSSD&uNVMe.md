@@ -1,9 +1,8 @@
 ---
 layout: post
 title: KVSSD & uNVMe 代码阅读
-author: Jianfeng Wu
-tags:
-    - KVSSD
+date: 2021-03-31
+category: code-reading
 ---
 
 # KVSSD & uNVMe
@@ -56,8 +55,6 @@ init、process_completions、store_tuple、retrieve_tuple、delete_tuple、exist
 
 后续是SPDK内部命令请求的转换处理等。
 
-// To add
-
 #### 2.1.3 emul->put
 
 - `kv_store`：KVSSD/PDK/core/src/device_abstract_layer/include/kvs_adi.h line.1491
@@ -93,8 +90,6 @@ init、process_completions、store_tuple、retrieve_tuple、delete_tuple、exist
 
 后续是SPDK内部命令请求的转换处理等。
 
-// To add
-
 #### 2.2.3 emul->get
 
 - `kv_retrieve`：KVSSD/PDK/core/src/device_abstract_layer/include/kvs_adi.h line.1438
@@ -106,10 +101,6 @@ init、process_completions、store_tuple、retrieve_tuple、delete_tuple、exist
 - `kv_namespace_internal::kv_retrieve`：KVSSD/PDK/core/src/device_abstract_layer/include/private/kv_namespace.hpp line.69
 - `kv_emulator::kv_retrieve`：KVSSD/PDK/core/src/device_abstract_layer/include/private/kv_emulator.hpp line.119（到达emulator内部）
 - emulator内部查找key对应的value，emulator通过两个kv_key* 映射到string的unordered_map来存储KV pair。查询语句：auto it = m_map[ks_id].find((kv_key*)key);
-
-### 2.3 delete
-
-// To add
 
 ## 附录
 
