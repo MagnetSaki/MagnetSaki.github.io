@@ -1,4 +1,9 @@
-# ubuntu 修改用户名
+---
+layout: post
+title: Ubuntu修改用户名
+date: 2021-06-07
+category: tips
+---
 
 1. 使用root账户登录
 2. vim /etc/passwd，找到旧用户名那行，仅将开头旧用户名改为新用户名
